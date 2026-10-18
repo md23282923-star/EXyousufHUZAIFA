@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Googlebot specific rules
+User-agent: Googlebot
+Allow: /
+
+# Bingbot specific rules
+User-agent: Bingbot
+Allow: /
+
+# Host & Sitemap definition
+Sitemap: https://yousufhuzaifa.me/sitemap.xml
